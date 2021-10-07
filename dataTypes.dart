@@ -35,8 +35,6 @@ Map<String,dynamic> mapObject = {
 print("print names $names");
 print("print the length of names ${names.length}");
 print(mapObject.keys);
-
-
 //Numbers:
 int num = 10;
 double sal = 10000000.0;
